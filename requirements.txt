@@ -1,0 +1,3 @@
+genshin
+rsa
+python-dotenv
